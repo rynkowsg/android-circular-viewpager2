@@ -72,5 +72,13 @@ android {
 
 dependencies {
     implementation Libs.Kotlin.stdlib
+    implementation Libs.Coroutines.core
+
     implementation Libs.Google.material
+    implementation Libs.AndroidX.appcompat
+    implementation Libs.AndroidX.constraintlayout
+
+    implementation Libs.timber
+
+    implementation Libs.sdp
 }
