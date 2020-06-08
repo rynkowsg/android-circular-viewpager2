@@ -1,0 +1,9 @@
+= Example "android-circular-viewpager2"
+Greg Rynkowski <greg@twobuffers.com>
+2020-06-08
+
+:root-dir: .
+
+== About
+
+Example project showing how to implement circular viewpager2.
