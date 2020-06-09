@@ -77,6 +77,8 @@ dependencies {
     implementation Libs.Google.material
     implementation Libs.AndroidX.appcompat
     implementation Libs.AndroidX.constraintlayout
+    implementation Libs.AndroidX.Lifecycle.extensions
+    implementation Libs.AndroidX.Lifecycle.runtimeKtx
 
     implementation Libs.timber
 
